@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["mark@nichollsclan.ca"]
   spec.description   = "Api-AI based bot ai"
   spec.summary       = "yet another AI option for your bot."
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/manicholls/lita-api-ai"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
