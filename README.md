@@ -9,7 +9,7 @@ Add lita-api-ai to your Lita instance's Gemfile:
 ``` ruby
 gem "lita-api-ai"
 ```
-
+you may need to add "api-ai-ruby" to your Gemfile as well if it complains about being unable to load it.
 
 ## Configuration
 
@@ -23,4 +23,4 @@ config.handlers.api_ai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXX"
 Start your bot up and start talking.
 
 
-Based heavily on Lita-ai (thanks Tony)
+Based heavily on Lita-ai (thanks Tom)
