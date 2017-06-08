@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = 'lita-api-ai'
-  spec.version       = '0.1.1'
+  spec.version       = '0.1.2'
   spec.authors       = ['Mark Nicholls']
   spec.email         = ['mark@nichollsclan.ca']
   spec.description   = 'Api-AI based bot ai'
