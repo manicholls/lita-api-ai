@@ -1,5 +1,5 @@
 require "lita"
-require "api-ai-ruby"
+#require "api-ai-ruby"
 Lita.load_locales Dir[File.expand_path(
   File.join("..", "..", "locales", "*.yml"), __FILE__
 )]
